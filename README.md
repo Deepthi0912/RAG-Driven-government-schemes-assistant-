@@ -8,23 +8,23 @@ Information about Indian government schemes is scattered across different websit
 This project aims to simplify access to government scheme information through an AI-powered assistant.
 
 Key Features:
-Natural-language question answering
-Government scheme discovery
-Eligibility criteria explanation
-Benefits and required documents
-Application procedure guidance
-Official source references
-Context-based AI responses
+Natural-language question answering,
+Government scheme discovery,
+Eligibility criteria explanation,
+Benefits and required documents,
+Application procedure guidance,
+Official source references,
+Context-based AI responses.
 
 Technology Stack:
-Python
-Streamlit
-FastAPI
-Google Gemini API
-LangChain
-Sentence Transformers
-ChromaDB
-Git and GitHub
+Python,
+Streamlit,
+FastAPI,
+Google Gemini API,
+LangChain,
+Sentence Transformers,
+ChromaDB,
+Git and GitHub.
 
 
 Project Status:
@@ -32,7 +32,7 @@ Project Status:
 Currently in the Define & Design phase.
 
 Future Enhancements:
-Multilingual support
-More state-specific government schemes
-Automated document updates
-Improved eligibility assistance
+Multilingual support,
+More state-specific government schemes,
+Automated document updates,
+Improved eligibility assistance.
