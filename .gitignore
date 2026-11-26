@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# ChromaDB
+chroma_db/
+
+# OS Files
+.DS_Store
+Thumbs.db
+# Additional environment secrets
+.env.*
+!.env.example
+
+# Python generated files
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+
+# Database backups
+*.dump
+*.sql
+*.backup
+
+# Generated vector databases
+vectorstore/
+vectorstore_backup/
+
+# Logs
+*.log
+
+
+k8s/db-secret-patch.yaml
+
+# Backup copies
+*.bak
